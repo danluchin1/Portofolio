@@ -28,4 +28,4 @@
 
 ### Weaknesses
 * Lack of confidence (sometimes)
-* 
+* Public speaking
